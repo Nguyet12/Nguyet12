@@ -102,12 +102,10 @@
 <div align="left">
 <p><strong>☕ 2018 - Graduated from High School</strong></p>
 <p><strong>☕ 2018 - Come to Korea </strong></p>
-<p><strong>☕ 2018 - Kyonggi Uni(student ID 18) -  Korean Language(Level 6)</strong></p>
-<p><strong>☕ 2021 - Kyonggi Uni(student ID 21) - Computer Engineering Major - Expected to graduate: 02/2025</strong></p>
+<p><strong>☕ 2020 - Kyonggi Uni(student ID 20) - Computer Science and Engineering- Expected to graduate: 02/2025</strong></p>
 <p><strong>☕ 2023 - TOPIK(Test of Proficiency in Korean) Level 3</strong></p>
-<p><strong>☕ 2023 - Bronze Medal of the Korea Information Technology Society Award(한국정보기술학회)</strong></p>
-<p><strong>☕ 2024 - Kyonggi Uni SW-Centered Uni Project Team - Grand first in 5th Python Basic Coding Program for International Students</strong></p>
-<p><strong>☕ 2024 - TOPIK(Test of Proficiency in Korean) Level 4</strong></p>
+<p><strong>☕ 2023 - 부트캠브 3기
+<p><strong>☕ 2023 - TOPIK(Test of Proficiency in Korean) Level 5</strong></p>
 <br>
   
 ### 
@@ -115,5 +113,5 @@
 <br>
 <a href="#" target="_blank">
 <div align="center">
-  <p> Game(LOL), Volleyball, Swimming, Gymnastics, Travel, Hang out with friends, Go shopping </p>
+  <p> Gym </p>
 </a>

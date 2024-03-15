@@ -1,6 +1,6 @@
 
 
-<!-- VQA_IoT Profile -->
+<!-- Trinh Thi Nguyet Profile -->
 ###
 
 
@@ -55,24 +55,19 @@
     
 <div align="center">
 <br>  
-<a>
-  
-![spotify-github-profile](/novatorem.svg)
-
-</a>
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/mitsumi73/mitsumi73/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nguyet12/Nguyet12/output/snake.svg" alt="Snake animation" />
 
 ###
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
-  <a href="#" title="mitsumi73">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsumi73&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="Nguyet12">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyet12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="mitsumi73">
+  <a href="#" title="Nguyet12">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Nguyet12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
   </div>

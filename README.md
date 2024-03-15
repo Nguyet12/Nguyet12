@@ -51,15 +51,7 @@
 <span><img src="https://img.shields.io/badge/Yaml-282C34?logo=yaml&logoColor=CB171E" alt="yaml logo" title="yaml" height="25" /></span>
 &nbsp;
 <br>
-
     
-<div align="center">
-<br>  
-</div>
-
-###
-<img src="https://raw.githubusercontent.com/Nguyet12/Nguyet12/output/snake.svg" alt="Snake animation" />
-
 ###
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>

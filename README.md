@@ -36,7 +36,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nodedotjs-282C34?logo=firebase&logoColor=339933" alt="Nodedotjs logo" title="Nodedotjs" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SpringBppts-282C34?logo=firebase&logoColor=339933" alt="Spring Boots logo" title="Spring Boots" height="25"/> </span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=008000" alt="Nginx logo" title="Nginx" height="25" /></span>
 &nbsp;

@@ -10,19 +10,15 @@
   <div align="center">
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=typescript&logoColor=3178C6" alt="Vue.js logo" title="Vue" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=react&logoColor=61DAFB" alt="Node.jslogo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=000000" alt="Notion logo" title="Notion" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C Programming-282C34?logo=C&logoColor=4FC08D" alt="C logo" title="C Programming" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=47A248" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Apache-282C34?logo=apache&logoColor=#D22128" alt="Apache logo" title="Apache" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFE873" alt="Python logo" title="" height="25" /></span>
 &nbsp;
@@ -34,22 +30,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nodedotjs-282C34?logo=firebase&logoColor=339933" alt="Nodedotjs logo" title="Nodedotjs" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/SpringBppts-282C34?logo=firebase&logoColor=339933" alt="Spring Boots logo" title="Spring Boots" height="25"/> </span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=008000" alt="Nginx logo" title="Nginx" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Pycharm-282C34?logo=pycharm&logoColor=FFFF00" alt="Pycharm logo" title="Pycharm" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Web3dotjs-282C34?logo=web3dotjs&logoColor=F16822" alt="Web3dotjs logo" title="Web3dot.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SpringBoot-282C34?logo=firebase&logoColor=339933" alt="Spring Boot logo" title="Spring Boot" height="25"/> </span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Npm-282C34?logo=npm&logoColor=F16822" alt="npm logo" title="npm" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Yaml-282C34?logo=yaml&logoColor=CB171E" alt="yaml logo" title="yaml" height="25" /></span>
-&nbsp;
 <br>
     
 ###
@@ -101,4 +84,5 @@
 <a href="#" target="_blank">
 <div align="center">
   <p> Gym </p>
+  <p>Coding</p>
 </a>

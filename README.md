@@ -76,6 +76,8 @@
 <p><strong>☕ 2022 - Computer Science and Engineering- Expected to graduate: 08/2024</strong></p>
 <p><strong>☕ 2023 - 부트캠브 3기(12/2023-10/2024)
 <p><strong>☕ 2023 - TOPIK(Test of Proficiency in Korean) Level 5</strong></p>
+<p><strong>☕ 2024/4 SQLD 자격증 취득</strong></p>
+  
 <br>
   
 ### 
